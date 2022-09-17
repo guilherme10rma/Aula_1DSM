@@ -91,4 +91,30 @@ nav{
     height: 80px;
 
 }
+/* Fale Conosco*/
 
+form{
+   align-self: center;
+}
+label, legend{
+    font-size: 0.7em;
+}
+input, select, textarea{
+   padding: 10px;
+   border-radius: 15px;
+   width: 60%;
+}
+fieldset{
+    width: 80%;
+    border:none;
+    padding:40px;
+}
+button{
+
+    width: 20%;
+    padding: 10px;    
+    
+}
+.required{
+
+}
